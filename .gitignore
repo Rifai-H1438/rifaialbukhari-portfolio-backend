@@ -1,0 +1,6 @@
+shelf/
+workspace.xml
+application.properties
+target/
+.idea/
+.env
